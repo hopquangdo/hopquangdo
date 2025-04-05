@@ -1,5 +1,7 @@
 # About Me
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=Hi%2C+I'm+Do+Quang+Hop;Backend+Engineer+%7C+Java+Spring+Boot;Computer+Science+Student+%F0%9F%92%BB)](https://git.io/typing-svg)
+
 👋 **Hello! I'm Do Quang Hop**  
 💻 **Computer Science Student | Backend Developer** 
 

@@ -3,8 +3,6 @@
 👋 **Hello! I'm Do Quang Hop**  
 💻 **Computer Science Student | Backend Developer** 
 
-![Hop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dqh999&show_icons=true&theme=github_dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dqh999&layout=compact&theme=github_dark)
 
 ---
